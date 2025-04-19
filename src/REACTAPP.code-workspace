@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "REACTAPP",
+			"path": "../../REACTAPP"
+		},
+		{
+			"name": "final-app",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "6.1+Font+Properties"
+	}
+}
